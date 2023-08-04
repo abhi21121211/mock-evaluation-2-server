@@ -1,40 +1,16 @@
 {
   "products":[
-   
+   {
+    "id":"1",
+    "productName":"Product1",
+    "productDescription":"productDescription",
+    "gender":"male",
+    "category":"ProductCategory",
+    "price":20
+   }
   ]
-,
-    "cartArr":[
-      {
-        "id": 1,
-        "image": [
-          "https://rukminim1.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
-          "https://rukminim1.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-3000d-original-imaf3t5hjrz6zzzc.jpeg?q=70"
-        ],
-        "name": "Canon EOS 3000D DSLR",
-        "price": "29,990",
-        "finalPrice":"45,000",
-        "review_star": 4.5,
-        "available": true,
-        "image_color": "black",
-        "size":[ 26, 36, 46, 56 ],
-        "sku": "FG123456",
-        "category": "camera",
-        "color":["Black"],
-        "customer_reviews": [
-          {
-            "username": "JohnDoe",
-            "rating": 4.0,
-            "comment": "Great gadget! Highly recommended."
-          },
-          {
-            "username": "JaneSmith",
-            "rating": 5.0,
-            "comment": "Awesome product. Worth every penny."
-          }
-        ],
-        "description": "This fake gadget is packed with advanced features and cutting-edge technology. It offers seamless performance and a sleek design that is sure t impress."
-      }
-    ]
+
+   
  
 
 }
